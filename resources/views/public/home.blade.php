@@ -12,7 +12,7 @@
             <div class="max-w-3xl">
                 <span class="inline-block bg-amber-500 text-blue-950 font-bold px-4 py-1 rounded-full text-xs tracking-wider uppercase mb-6 shadow-sm">Established 1998</span>
                 <h1 class="text-5xl md:text-6xl font-extrabold text-white tracking-tight leading-[1.1] mb-6">
-                    Cultivating Excellence in <br><span class="text-amber-400">Village Kuro</span>
+                    ISLAMIA PUBLIC SCHOOL ®<br><span class="text-amber-400">KURO, GHANCHE</span>
                 </h1>
                 <p class="text-xl text-blue-100 font-light leading-relaxed mb-8 max-w-2xl">
                     For over two decades, we have committed to bringing high-standard primary and middle school education to District Ghanche, combining efficient teaching faculty with modern learning environments.
